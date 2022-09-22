@@ -5,5 +5,5 @@ We used Moralis, IPFS protocol, and Construct 3 to make our game come into reali
 # galaxygang DAPP
 Galaxy Gang Dapp created using React with Moralis.
 
-#galaxygang Game
+# galaxygang Game
 Galaxy Gang Game Created using Construct 3 Game Engine.
