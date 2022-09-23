@@ -9,9 +9,16 @@ Our goal is to bring economic opportunities to the underserved communities by el
 
 This way, we will be able to bring more people into web3 and accelerate the adoption of such innovation. For more info on our project or if you would like to contribute to it, please contact Gloria Felicia [ GLO ] at gloria@virginia.edu. Thank you!
 
-# galaxygang DAPP
-Galaxy Gang Dapp created using React with Moralis.
+# Galaxy Gang DAPP
+
+Galaxy Gang Dapp was created using React.js with Moralis,
+held through IPFS/filecoin protocol.
+
+To access our Beta dApp, click here:
 https://beta-galaxygang.netlify.app/
 
-# galaxygang Game
-Galaxy Gang Game Created using Construct 3 Game Engine.
+# Galaxy Gang Game
+
+Galaxy Gang Game was created using Construct 3 Game Engine. This was our choice of "low data" mode to accommodate for ease of accessibility in even the most remote areas of the globe - we want to stay mindful of all our communities all around the world.
+
+Per our Roadmap, we plan to migrate to Unreal Engine and enter the metaverse with our collaboration with Metaphy.
