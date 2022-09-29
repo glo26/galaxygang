@@ -14,7 +14,7 @@ To close, our goal is to bring economic opportunities to the underserved communi
 
 This way, we will be able to bring more people into web3 and accelerate the adoption of such innovation. For more info on our project or if you would like to contribute to it, please contact Gloria Felicia [ GLO ] at gloria@virginia.edu. Thank you!
 
-# Galaxy Gang DAPP
+# Galaxy Gang dAPP
 
 Galaxy Gang Dapp was created using React.js with Moralis,
 held through IPFS/filecoin protocol.
