@@ -24,7 +24,9 @@ https://beta-galaxygang.netlify.app/
 
 # Galaxy Gang Game
 
-Galaxy Gang Game was created using Construct 3 Game Engine. This was our choice of "low data" mode to accommodate for ease of accessibility in even the most remote areas of the globe - we want to stay mindful of all our communities all around the world.
+Galaxy Gang Game was created using Construct 3 Game Engine.
+
+This was our choice of "low data" mode to accommodate for ease of accessibility in even the most remote areas of the globe - we want to stay mindful of all our communities all around the world.
 
 Our whitepaper and the minting of our ultra-rare first gen spaceship NFT's can be found on https://galaxygang.io
 
