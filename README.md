@@ -8,6 +8,8 @@ Based on the past play-to-earn games that have failed their communities and the 
 
 Galaxy Gang was made to prioritize serving the undeserved and economically marginalized communities in the gaming world as it is made with "low-data" mode in mind. We have also revised the tokenomics after a careful study on other games such Axie Infinity, Cryptomines, and many other well-known P2E players. 
 
+# Tackling Issues In P2E Gaming Landscape
+
 Through such R&D, we have designed our game to possess economic sustainability. Such endeavor is achievable through the adoption of lootboxes and spaceship credit on top of installing security to prevent the possibility of using script-based bots that could 'accidentally' drain all the reward pool.
 
 Last but not least, all earnings were designed to be limited to players consistently scoring in the top ranks of the leaderboard. Within the highest scores in the top 5% of players on the leaderboard. To incenticize user growth and stimulate community loyalty, we will also hold monthly raffles and giveaways.
