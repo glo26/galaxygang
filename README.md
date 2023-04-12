@@ -1,6 +1,8 @@
-# Galaxy Gang Universe 
+# Galaxy Gang Universe | Premise
 Galaxy Gang is a play-to-earn game sitting on Polygon chain.
 Other tech stacks include: Moralis, IPFS protocol, and Construct 3.
+
+# Galaxy Gang Universe | Overview
 
 Based on the past play-to-earn games that have failed their communities and the current industry landscape, we decided to act on a 'Genesis' whitepaper we wrote in 2021, made revisions based on our past experiences and R&D in the P2E industry, and coded a 2022 version during Moralis Hackathon. We believe that this game is playable even on the lowest-grade of Android phones in developing countries, all around the world: making it accessible to everyone.
 
