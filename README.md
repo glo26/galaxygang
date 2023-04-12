@@ -1,4 +1,4 @@
-# Galaxy Gang
+# Galaxy Gang Universe 
 Galaxy Gang is a play-to-earn game sitting on Polygon chain.
 Other tech stacks include: Moralis, IPFS protocol, and Construct 3.
 
