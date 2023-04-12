@@ -35,3 +35,5 @@ This was our choice of "low data" mode to accommodate for ease of accessibility 
 Our whitepaper and the minting of our ultra-rare first gen spaceship NFT's can be found on https://galaxygang.io
 
 Per our Roadmap, we plan to migrate to Unreal Engine and enter the metaverse with our collaboration with Metaphy.
+
+Copyright © 2020-2023. Spero Studios x Galaxy Gang Universe. All Rights Reserved.
